@@ -2,9 +2,9 @@
 
 ### Variables
 
-"subject" 
-"activity" 
-"BodyAcc_mean_X" 
+*"subject" 
+*"activity" 
+*"BodyAcc_mean_X" 
 "BodyAcc_mean_Y" 
 "BodyAcc_mean_Z" 
 "BodyAcc_std_X" 
